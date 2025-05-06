@@ -94,6 +94,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/plotly/";
           
         },
+      },{id: "post-markdown-문법-기초",
+        
+          title: "Markdown 문법 기초",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/markdown/";
+          
+        },
       },{id: "post-a-post-with-image-galleries",
         
           title: "a post with image galleries",
