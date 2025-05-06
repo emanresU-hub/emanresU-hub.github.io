@@ -83,6 +83,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/my-first-jekyll-blog-post/";
           
         },
+      },{id: "post-부산을-소개합니다",
+        
+          title: "부산을 소개합니다",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/introducd-busan/";
+          
+        },
       },{id: "post-markdown-문법-기초",
         
           title: "Markdown 문법 기초",
