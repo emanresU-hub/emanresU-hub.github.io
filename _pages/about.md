@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>제 롤모델입니다</p>
 
-selected_papers: faslee # includes a list of papers marked as "selected={true}"
+selected_papers: fasle # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
 announcements:
