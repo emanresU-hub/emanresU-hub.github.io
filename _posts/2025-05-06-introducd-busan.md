@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "부산을 소개합니다"
-date: 2025-05-07
+date: 2025-05-06
 categories: [ "소개", "지역" ]
 tags: [ "부산", "관광명소", "맛집" ]
 ---
