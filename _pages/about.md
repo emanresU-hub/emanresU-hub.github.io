@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'> 서울대학교 | 첨단융합학부 | 24학번
+subtitle: <a href='https://www.snu.ac.kr/'>서울대학교</a> | <a href='https://snuti.snu.ac.kr/'>첨단융합학부</a>
 
 profile:
   align: right
