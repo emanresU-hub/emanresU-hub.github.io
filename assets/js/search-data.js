@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-나의-첫-jekyll-블로그-포스트",
+            },{id: "post-부산을-소개합니다",
+        
+          title: "부산을 소개합니다",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/busan/";
+          
+        },
+      },{id: "post-나의-첫-jekyll-블로그-포스트",
         
           title: "나의 첫 Jekyll 블로그 포스트",
         
