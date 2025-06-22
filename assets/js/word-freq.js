@@ -31,7 +31,7 @@ function getChartData(text, topn=30) {
         frequency[word] = (frequency[word] || 0) + 1;
     }) 
 
-    for (stop of stopwords) {
+    for (let stop of stopwords) {
         frequency[stop] = 0;
     }
     
