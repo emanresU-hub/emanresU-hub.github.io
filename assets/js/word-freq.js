@@ -35,7 +35,7 @@ function getChartData(text, topn=30) {
         frequency[stop] = 0;
     }
     
-    const sorted = Object.entries(frequency).sort(([,a],[,b]) -> b-a);
+    const sorted = Object.entries(frequency).sort(([,a],[,b]) => b-a);
 
     const freq_sorted = Object.fromEntries(sorted.slice(0, topn));
 
