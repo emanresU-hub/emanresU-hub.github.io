@@ -15,4 +15,4 @@ nav_order: 4
 <div>
     <canvas id="myChart"></canvas>
 </div>
-<script scr="assets/js/word-freq.js"></script>
+<script scr="/assets/js/word-freq.js"></script>
